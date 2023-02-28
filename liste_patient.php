@@ -57,6 +57,7 @@
       </table>
     </section>
 </main>
+<!--<?php include './utils/debug.php' ?> -->
 
 <script src="./assets/js/ajout_patient.js"></script>
 

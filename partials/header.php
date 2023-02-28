@@ -11,13 +11,13 @@
     <header>
         <nav class="teal">
             <div class="nav-wrapper">
-                <a href="/Hospital/index.php" class="brand-logo">Hospital</a>
+                <a href="./index.php" class="brand-logo">Hospital</a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="/Hospital/liste_patient.php">Liste Patients</a></li>
-                    <li><a href="/Hospital/ajout_patient.php">Ajout Patient</a></li>
-                    <li><a href="/Hospital/ajout_rdv.php">Ajout Rendez Vous</a></li>
-                    <li><a href="/Hospital/liste_rdv.php">Liste Rendez Vous</a></li>
-                    <li><a href="/Hospital/ajout_patient_rdv.php">Ajout Patient + RDV</a></li>
+                    <li><a href="./liste_patient.php">Liste Patients</a></li>
+                    <li><a href="./ajout_patient.php">Ajout Patient</a></li>
+                    <li><a href="./ajout_rdv.php">Ajout Rendez Vous</a></li>
+                    <li><a href="./liste_rdv.php">Liste Rendez Vous</a></li>
+                    <li><a href="./ajout_patient_rdv.php">Ajout Patient + RDV</a></li>
                 </ul>
             </div>
         </nav>

@@ -1,7 +1,7 @@
 <?php include './partials/header.php' ?>
 
 <main>
-    <h1>Page d'accueil</h1>
+    <h1>Page d'accueil de mon hopital</h1>
 </main>
 
 
